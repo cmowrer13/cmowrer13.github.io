@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "ST 201: Principles of Statistics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/ST201
+venue: "Oregon State University, Statistics Department"
+date: 2023-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+A first course in statistics focusing on the interpretation and communication of statistical concepts. Introduces exploratory data analysis, descriptive statistics, sampling methods and distributions, point and interval estimates, hypothesis tests for means and proportions, and elements of probability and correlation.
 
 Heading 1
 ======
