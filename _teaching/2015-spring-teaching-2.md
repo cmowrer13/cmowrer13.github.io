@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "ST 352: Introduction to Statistical Methods"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
+type: "Undergraduate course"
+permalink: /teaching/ST352
+venue: "Oregon State University, Statistics Department"
+date: 2023-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Randomization tests and other nonparametric tests for one- and two-sample inference, simple and multiple linear regression, correlation, one- and two-way analysis of variance, logistic regression.
