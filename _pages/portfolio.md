@@ -5,19 +5,14 @@ permalink: /projects/
 author_profile: true
 ---
 
-{% include base_path %}
-
 ## Publications
-{% for post in site.publications %}
-  {% include archive-single.html %}
-{% endfor %}
+### Systematic measurement and characterization of community noise in a medium-large city in the United States
+*Carson Mowrer, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar*
+
+In review at Environmental Pollution.
 
 ## Current Projects
-{% for post in site.currentprojects %}
-  {% include archive-single.html %}
-{% endfor %}
+
 
 ## Course Projects
-{% for post in site.courseprojects %}
-  {% include archive-single.html %}
-{% endfor %}
+
