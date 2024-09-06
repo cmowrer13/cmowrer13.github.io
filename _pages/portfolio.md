@@ -13,10 +13,14 @@ author_profile: true
 In review at Environmental Pollution.
 
 ## Current Projects
+### Modeling road traffic noise exposure at a high spatial resolution
 
+### Describing temporal trends in community noise exposures and sound sources
+
+### Privacy-preserving record linkage techniques for merging electronic medical records with data from community organizations
 
 ## Course Projects
-### COMPARING LOGISTIC REGRESSION AND SUPERLEARNER FOR CAUSAL INFERENCE ON OBSERVATIONAL DATA
+### [Comparing Logistic Regression and SuperLearner for Causal Inference on Observational Data](/files/SuperLearnerCausalInference.pdf)
 Created for H 651: Advanced Epidemiologic Methods, June 2024
 
 ### [Historical Redlining and Asthma: An Ecological Study](https://arcg.is/08Pq5H)
