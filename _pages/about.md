@@ -12,3 +12,5 @@ I am an epidemiologist and MS student in Data Analytics at Oregon State Universi
 Previously, I earned my Master of Public Health degree in epidemiology and Bachelor of Science degrees in mathematics and economics from Oregon State University.
 
 I am interested in research that utilizes cutting-edge data science and machine learning techniques to model environmental exposures for epidemiologic studies and to improve the delivery of healthcare.
+
+Outside of work, I enjoy weightlifting, playing golf and pickleball, playing guitar, and reading.
