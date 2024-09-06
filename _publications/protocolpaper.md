@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/Systematicmeasurementandcharacterization
 excerpt: 'Under review at Environmental Pollution'
-date: #2009-10-01
+date: 2024-07-08
 venue: #'Environmental Pollution'
 slidesurl: #'http://academicpages.github.io/files/slides1.pdf'
 paperurl: #'http://academicpages.github.io/files/paper1.pdf'
