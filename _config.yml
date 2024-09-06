@@ -10,9 +10,9 @@
 locale                   : "en-US"
 title                    : "Carson Mowrer"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Carson Mowrer"
+description              : &description "Epidemiologist and MS student"
+url                      : https://cmowrer13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cmowrer13/cmowrer13.github.io"
 
