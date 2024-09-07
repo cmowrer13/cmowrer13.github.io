@@ -15,4 +15,5 @@ I previously earned my Master of Public Health (MPH) degree in Epidemiology and 
 
 Outside of academia and research, I enjoy staying active through competing in weightlifting, playing golf and pickleball, and playing the guitar. In my downtime, I’m an avid reader, always exploring new ideas and perspectives.
 
-![Golf](/images/golf.png) ![Hockey](/images/hockey.png)
+<img src="/images/golf.png" alt="golf" height="500"/>
+<img src="/images/hockey.png" alt="hockey" height="500"/>
