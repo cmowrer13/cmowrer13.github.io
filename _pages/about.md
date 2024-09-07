@@ -13,6 +13,6 @@ In addition to my academic research, I work as a consulting biostatistician with
 
 I previously earned my Master of Public Health (MPH) degree in Epidemiology and Bachelor of Science degrees in Mathematics and Economics, all from Oregon State University. These educational foundations have shaped my passion for leveraging quantitative methods and machine learning to address key public health issues, especially in the realms of environmental exposures and healthcare delivery optimization.
 
-Outside of academia and research, I enjoy staying active through competing in weightlifting, playing golf and pickleball.. In my downtime, I play the guitar and am an avid reader, always exploring new ideas and perspectives.
+Outside of academia and research, I enjoy staying active through competing in weightlifting and playing golf and pickleball. In my downtime, I play the guitar and am an avid reader, always exploring new ideas and perspectives.
 
 <img src="/images/golf.png" alt="golf" style="height:500px;"> <img src="/images/hockey.png" alt="hockey" style="height:500px;">
