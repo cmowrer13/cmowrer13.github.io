@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an epidemiologist and MS student in Data Analytics at Oregon State University in the College of Health. I currently work with [Dr. Matthew Bozigar](https://health.oregonstate.edu/directory/matthew-bozigar) and [Dr. Perry Hystad](https://health.oregonstate.edu/directory/perry-hystad) on measuring and modeling community noise exposures in urban areas and investigating the association between environmental radon exposure and brain and central nervous system cancer. I also work as a consulting biostatistician with Samaritan Health Services to develop privacy-preserving record linkage methods to join data from electronic medical records and other community organizations. 
+I am an epidemiologist and MS student in Data Analytics at Oregon State University in the College of Health. My research focuses on applying data science techniques to public health challenges, with a particular interest in environmental health. I work closely with [Dr. Matthew Bozigar](https://health.oregonstate.edu/directory/matthew-bozigar) and [Dr. Perry Hystad](https://health.oregonstate.edu/directory/perry-hystad), investigating community noise exposure in urban environments and its potential health impacts. I am also involved in assessing the relationship between environmental radon exposure and the risk of brain and central nervous system cancers.
 
-Previously, I earned my Master of Public Health degree in epidemiology and Bachelor of Science degrees in mathematics and economics from Oregon State University.
+In addition to my academic research, I work as a consulting biostatistician with Samaritan Health Services. There, I help develop privacy-preserving record linkage methods that enable the integration of electronic medical records with data from community organizations, allowing for more comprehensive public health analyses.
 
-I am interested in research that utilizes cutting-edge data science and machine learning techniques to model environmental exposures for epidemiologic studies and to improve the delivery of healthcare.
+I previously earned my Master of Public Health (MPH) degree in Epidemiology and Bachelor of Science degrees in Mathematics and Economics, all from Oregon State University. These educational foundations have shaped my passion for leveraging quantitative methods and machine learning to address key public health issues, especially in the realms of environmental exposures and healthcare delivery optimization.
 
-Outside of work, I enjoy weightlifting, playing golf and pickleball, playing guitar, and reading.
+Outside of academia and research, I enjoy staying active through competing in weightlifting, playing golf and pickleball, and playing the guitar. In my downtime, I’m an avid reader, always exploring new ideas and perspectives.
