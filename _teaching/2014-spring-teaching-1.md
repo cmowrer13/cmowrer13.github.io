@@ -1,7 +1,7 @@
 ---
 title: "ST 201: Principles of Statistics"
 collection: teaching
-type: "Undergraduate course"
+type: "Lab for undergraduate course"
 permalink: /teaching/ST201
 venue: "Oregon State University, Statistics Department"
 date: 2023-01-01
