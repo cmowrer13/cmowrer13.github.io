@@ -10,6 +10,10 @@ author_profile: true
 *Carson Mowrer, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar* <br>
 In review at Environmental Pollution.
 
+### Patterns revealed by merging healthcare and housing services data: ED visits and hospitalizations are higher among those experiencing chronic vs. non-chronic homelessness
+*Andrew W. Hertel, Elizabeth Zoe Herrera, Jonathan Ratliff, Carson Mowrer, Paulina Kaiser, Cory Hackstedt, Barbara Hudson-Hanley, Brandon M. Kowalski, Mark Edwards* <br>
+In review at Social Science and Medicine: Population Health
+
 ## Current Projects
 ### Modeling road traffic noise exposure at a high spatial resolution
 Using week-long road traffic noise measurements from over 200 locations in Portland, Oregon, we developed a predictive model to estimate noise exposure levels across the entire city at a 10-meter resolution. The model integrates a range of geospatial variables, including traffic volumes, vehicle speeds, and traffic calming features, along with a novel component that accounts for the noise-shielding effects of buildings. This model provides a valuable tool for future epidemiological studies exploring the health impacts of road traffic noise exposure.
