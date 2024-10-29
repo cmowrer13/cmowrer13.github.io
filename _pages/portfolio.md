@@ -12,7 +12,7 @@ In review at Environmental Pollution.
 
 ### Patterns revealed by merging healthcare and housing services data: ED visits and hospitalizations are higher among those experiencing chronic vs. non-chronic homelessness
 *Andrew W. Hertel, Elizabeth Zoe Herrera, Jonathan Ratliff, Carson Mowrer, Paulina Kaiser, Cory Hackstedt, Barbara Hudson-Hanley, Brandon M. Kowalski, Mark Edwards* <br>
-In review at Social Science and Medicine: Population Health.
+In review at Journal of Social Distress and Homelessness.
 
 ## Current Projects
 ### Modeling road traffic noise exposure at a high spatial resolution
