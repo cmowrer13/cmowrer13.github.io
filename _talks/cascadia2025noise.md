@@ -1,5 +1,5 @@
 ---
-title: "Predicting noise at high spatial resolution from a systematic measurement campaign in Portland, Oregon (upcoming)"
+title: "Predicting noise at high spatial resolution from a systematic measurement campaign in Portland, Oregon"
 collection: talks
 type: "Oral presentation"
 permalink: /talks/cascadia2025noise
