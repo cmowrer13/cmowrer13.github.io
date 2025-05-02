@@ -10,6 +10,10 @@ author_profile: true
 *Carson Mowrer, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar* <br>
 In review at Journal of Exposure Science and Environmental Epidemiology.
 
+### Predicting road traffic noise at high spatial resolution for a medium-large city in the United States
+Matthew Bozigar, Andrew Larkin, Carson Mowrer, Charlotte Roscoe, Stephanie T. Grady, Brendon Haggerty, Junenette L. Peters, Perry Hystad* <br>
+In review at Journal of Exposure Science and Environmental Epidemiology.
+
 ### Patterns revealed by merging healthcare and housing services data: ED visits and hospitalizations are higher among those experiencing chronic vs. non-chronic homelessness
 *Andrew W. Hertel, Elizabeth Zoe Herrera, Jonathan Ratliff, Carson Mowrer, Paulina Kaiser, Cory Hackstedt, Barbara Hudson-Hanley, Brandon M. Kowalski, Mark Edwards* <br>
 In review at Journal of Social Distress and Homelessness.
