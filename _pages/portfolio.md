@@ -12,7 +12,7 @@ author_profile: true
 In review at Journal of Exposure Science and Environmental Epidemiology.
 
 ### Systematic measurement and characterization of community noise in a medium-large city in the United States
-* **Carson Mowrer**, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar* <br>
+***Carson Mowrer**, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar* <br>
 In review at Journal of Exposure Science and Environmental Epidemiology.
 
 ### Patterns revealed by merging healthcare and housing services data: ED visits and hospitalizations are higher among those experiencing chronic vs. non-chronic homelessness
