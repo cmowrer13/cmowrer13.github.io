@@ -8,7 +8,7 @@ author_profile: true
 ## Publications
 
 ### A high-resolution land use regression model of outdoor noise with building shielding and road traffic predictors for a medium-large United States city
-Andrew Larkin, Carson Mowrer, Charlotte Roscoe, Stephanie T. Grady, Brendon Haggerty, Junenette L. Peters, Perry Hystad, Matthew Bozigar* <br>
+*Andrew Larkin, Carson Mowrer, Charlotte Roscoe, Stephanie T. Grady, Brendon Haggerty, Junenette L. Peters, Perry Hystad, Matthew Bozigar* <br>
 In review at Journal of Exposure Science and Environmental Epidemiology.
 
 ### Systematic measurement and characterization of community noise in a medium-large city in the United States
