@@ -11,7 +11,7 @@ author_profile: true
 *Andrew Larkin, **Carson Mowrer**, Charlotte Roscoe, Stephanie T. Grady, Brendon Haggerty, Junenette L. Peters, Perry Hystad, Matthew Bozigar* <br>
 In review at Journal of Exposure Science and Environmental Epidemiology.
 
-### Systematic measurement and characterization of community noise in a medium-large city in the United States
+### Systematic measurement and machine learning-based characterization of community noise in a medium-large city in the United States
 ***Carson Mowrer**, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar* <br>
 In review at Journal of Exposure Science and Environmental Epidemiology.
 
