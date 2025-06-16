@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Carson Mowrer"
 title_separator          : "-"
 name                     : &name "Carson Mowrer"
-description              : &description "Epidemiologist and MS student"
+description              : &description "PhD Student in Biostatistics"
 url                      : https://cmowrer13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cmowrer13/cmowrer13.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "HeadshotMTL.jpeg"
   name             : "Carson Mowrer"
   pronouns         : # example: "she/her"  
-  bio              : "Epidemiologist and MS student in Data Analytics at Oregon State University"
-  location         : "Corvallis, OR"
-  employer         : "Oregon State University"
+  bio              : "PhD Student in Biostatistics at the University of North Carolina at Chapel Hill"
+  location         : "Chapel Hill, NC"
+  employer         : "University of North Carolina at Chapel Hill"
   uri              : # URL
-  email            : "mowrerc@oregonstate.edu" 
+  email            : "carson.mowrer@unc.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
