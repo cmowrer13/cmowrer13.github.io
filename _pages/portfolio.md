@@ -7,12 +7,16 @@ author_profile: true
 
 ## Publications
 
+### [Systematic measurement and machine learning-based characterization of community noise in a medium-large city in the United States](https://pubmed.ncbi.nlm.nih.gov/40684001/)
+***Carson Mowrer**, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar* <br>
+Journal of Exposure Science and Environmental Epidemiology. 19 July 2025.
+
+### Residential radon exposure and central nervous system cancer risk in a national, postmenopausal cohort of women in the United States
+***Carson Mowrer**, Eric A. Whitsel, Gary G. Schwartz, Alexander P. Reiner, Jason M. Collins, James D. Stewart, Curian Shi, Matthew Bozigar* <br>
+In preparation.
+
 ### A high-resolution land use regression model of outdoor noise with building shielding and road traffic predictors for a medium-large United States city
 *Andrew Larkin, **Carson Mowrer**, Charlotte Roscoe, Stephanie T. Grady, Brendon Haggerty, Junenette L. Peters, Perry Hystad, Matthew Bozigar* <br>
-In review at Journal of Exposure Science and Environmental Epidemiology.
-
-### Systematic measurement and machine learning-based characterization of community noise in a medium-large city in the United States
-***Carson Mowrer**, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar* <br>
 In review at Journal of Exposure Science and Environmental Epidemiology.
 
 ### Patterns revealed by merging healthcare and housing services data: ED visits and hospitalizations are higher among those experiencing chronic vs. non-chronic homelessness
