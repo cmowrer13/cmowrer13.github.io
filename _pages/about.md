@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of North Carolina at Chapel Hill, focused on leveraging biostatistics and data science to address pressing public health challenges, particularly in environmental health. My current research explores the impact of environmental chemical exposures on fetal growth and development. I am also involved in studying the association between environmental radon exposure and brain and central nervous system cancers, and investigating community noise exposure in urban environments.
+I am a PhD student at the University of North Carolina at Chapel Hill, focused on leveraging biostatistics and data science to address pressing public health challenges, particularly in environmental health. My current research explores how modifiable environmental exposures impact pregnancy and early human development. I am also involved in studying the association between environmental radon exposure and brain and central nervous system cancers, and investigating community noise exposure in urban environments.
 
 Beyond academia, I work as a consulting biostatistician with Samaritan Health Services, where I develop privacy-preserving record linkage methods. This work allows for the integration of electronic medical records with community organization data, advancing public health analyses and insights.
 
