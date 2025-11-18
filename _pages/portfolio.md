@@ -40,8 +40,3 @@ Using week-long road traffic noise measurements from over 200 locations in Portl
 
 ### Privacy-preserving record linkage techniques for merging electronic medical records with data from community organizations
 Health data are often siloed within the organizations that collect them, making external sharing challenging due to strict privacy regulations such as HIPAA. This fragmentation limits the potential for comprehensive analyses that could drive more effective public health interventions. By developing privacy-preserving methodologies, we enable the linkage of datasets without the need for personally identifiable information, ensuring confidentiality while unlocking the full potential of big data. These approaches allow for more robust public health analyses, facilitating deeper insights into population health trends and enabling more targeted and informed decision-making.
-
-
-### [Historical Redlining and Asthma: An Ecological Study](https://arcg.is/08Pq5H)
-Created for H 547: GIS and Public Health, March 2023
-
