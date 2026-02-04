@@ -16,7 +16,7 @@ Journal of Exposure Science and Environmental Epidemiology. 19 July 2025.
 In review.
 
 ### Indoor radon and incident heart failure in the Women’s Health Initiative
-Shu Chen, Jason M. Collins, Ayesha Ekanayaka, **Carson Mowrer**, James D. Stewart, David Y. Huang, Matthew Allison, Bernhard Haring, Michael J. LaMonte, Matthew Nudy, Alexander P. Reiner, Gary G. Schwartz, David Shou, Lesley Tinker, Mark Williamson, Richard L. Smith, Eric A, Whitsel <br>
+*Shu Chen, Jason M. Collins, Ayesha Ekanayaka, **Carson Mowrer**, James D. Stewart, David Y. Huang, Matthew Allison, Bernhard Haring, Michael J. LaMonte, Matthew Nudy, Alexander P. Reiner, Gary G. Schwartz, David Shou, Lesley Tinker, Mark Williamson, Richard L. Smith, Eric A, Whitsel* <br>
 In review.
 
 ### Endocrine disrupting chemicals modify fetal cardiac development and function
