@@ -21,7 +21,7 @@ In review.
 
 ### Endocrine disrupting chemicals modify fetal cardiac development and function
 *Danielle R. Stevens, **Carson Mowrer**, Elena Sinkovskaya, Barrett M. Welch, Andrew P. Langstrom, Ann Przbylska, Antonia M. Calafat, Julianne C. Botelho, Alfred Abuhamad, George Saade, Jessie Buckley, Kelly K. Ferguson* <br>
-In preparation.
+In review.
 
 ### A high-resolution land use regression model of outdoor noise with building shielding and road traffic predictors for a medium-large United States city
 *Andrew Larkin, **Carson Mowrer**, Charlotte Roscoe, Stephanie T. Grady, Brendon Haggerty, Junenette L. Peters, Perry Hystad, Matthew Bozigar* <br>
