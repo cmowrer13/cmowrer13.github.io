@@ -29,7 +29,7 @@ In preparation.
 
 ## Current Projects
 
-### Endocrine-disrupting chemical exposures and fetal development and organ function
+### Endocrine-disrupting chemical exposures and fetal development and organ function/development
 This study is the first in humans to examine the relationship between gestational exposure to endocrine-disrupting chemicals such as phthalates and fetal heart development and function. Our findings suggest these gestational exposures may contribute to subclinical structural and functional cardiac adaptations.
 
 ### Investigating the association between residential radon exposure and brain/central nervous system cancer
