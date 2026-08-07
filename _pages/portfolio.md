@@ -13,7 +13,7 @@ Journal of Exposure Science and Environmental Epidemiology. 19 July 2025.
 
 ### Residential radon concentration and the risk of malignant brain and central nervous system cancer in United States postmenopausal women
 ***Carson Mowrer**, Eric A. Whitsel, Jason M. Collins, Shu Chen, Ayesha Ekanayaka, JoAnn E. Manson, Jaymie R. Meliker, Alexander P, Reiner, Gary G. Schwartz, Aladdin H. Shadyab, Cuiran Shi, Richard L. Smith, James D. Stewart, Hari H. Venkatachalam, Matthew Bozigar* <br>
-Accepted at Neuroepidemiology
+Accepted at Neuroepidemiology. 17 July 2026.
 
 ### Indoor radon and incident heart failure in the Women’s Health Initiative
 *Shu Chen, Jason M. Collins, Ayesha Ekanayaka, **Carson Mowrer**, James D. Stewart, David Y. Huang, Matthew Allison, Bernhard Haring, Michael J. LaMonte, Matthew Nudy, Alexander P. Reiner, Gary G. Schwartz, David Shou, Lesley Tinker, Mark Williamson, Richard L. Smith, Eric A. Whitsel* <br>
@@ -25,6 +25,7 @@ In review.
 
 ### Use of imaging to examine the roles of environmental chemicals in pregnancy and health: a scoping review
 *Belle Martin, **Carson Mowrer**, Andrea Chalem, Barrett M. Welch, Mandy Goldberg, Emily J. Werder, Stephanie M. Engel, Danielle R. Stevens*
+In preparation.
 
 ### A high-resolution land use regression model of outdoor noise with building shielding and road traffic predictors for a medium-large United States city
 *Andrew Larkin, **Carson Mowrer**, Charlotte Roscoe, Stephanie T. Grady, Brendon Haggerty, Junenette L. Peters, Perry Hystad, Matthew Bozigar* <br>
