@@ -24,7 +24,7 @@ In review.
 In review.
 
 ### Use of imaging to examine the roles of environmental chemicals in pregnancy and health: a scoping review
-*Belle Martin, **Carson Mowrer**, Andrea Chalem, Barrett M. Welch, Mandy Goldberg, Emily J. Werder, Stephanie M. Engel, Danielle R. Stevens*
+*Belle Martin, **Carson Mowrer**, Andrea Chalem, Barrett M. Welch, Mandy Goldberg, Emily J. Werder, Stephanie M. Engel, Danielle R. Stevens* <br>
 In preparation.
 
 ### A high-resolution land use regression model of outdoor noise with building shielding and road traffic predictors for a medium-large United States city
