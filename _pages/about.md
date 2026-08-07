@@ -7,12 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of North Carolina at Chapel Hill, focused on leveraging biostatistics and data science to address public health challenges, particularly in environmental health. My current research explores how modifiable environmental exposures impact pregnancy and early human development. I am also involved in studying the association between environmental radon exposure and brain and central nervous system cancers, and investigating community noise exposure in urban environments.
+I am a PhD student at the University of North Carolina at Chapel Hill, where my research focuses on the development and application of quantitative methods to answer questions in environmental and population health. I am particular interested in causal inference, spatial statistics, and environmental epidemiology, with current work examining how environmental exposures influence pregnancy, early human development, and chronic disease.
 
-Beyond academia, I have previously worked as a consulting biostatistician with Samaritan Health Services, where I developed privacy-preserving record linkage methods. This work allowed for the integration of electronic medical records with community organization data, advancing public health analyses and insights.
+My research spans several areas of environmental health, including the effects of modifiable environmental exposures during pregnancy, the relationship between residential radon exposure and cancers of the brain and central nervous system, and the characterization of community noise in urban environments.
 
-I previously earned my Master of Public Health degree in Epidemiology, Master of Science degree in Data Analytics, and Bachelor of Science degrees in Mathematics and Economics, all from Oregon State University. These educational foundations have shaped my passion for leveraging quantitative methods to address key public health issues, especially in the realms of environmental exposures and healthcare delivery optimization.
+Prior to beginning my PhD, I worked as a consulting biostatistician with Samaritan Health Services. There, I contributed to a variety of healthcare and public health research projects, including the development of privacy-preserving record linkage methods to integrate electronic health records with data from community organizations.
 
-Outside of academia and research, I enjoy staying active through competing in weightlifting and playing golf and pickleball. In my downtime, I play the guitar and am an avid reader, always exploring new ideas and perspectives.
+I earned a Master of Public Health in Epidemiology, a Master of Science in Data Analytics, and Bachelor of Science degrees in Mathematics and Economics from Oregon State University. My interdisciplinary training in statistics, epidemiology, data science, and economics continues to shape my approach to applied biostatistical research.
+
+Outside of research, I enjoy golf, strength training, cooking, crossword puzzles, and spending time outdoors.
 
 <img src="/images/golf.png" alt="golf" style="height:500px;"> <img src="/images/hockey.png" alt="hockey" style="height:500px;">
