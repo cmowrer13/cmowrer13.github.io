@@ -1,7 +1,7 @@
 ---
 title: "ST 352: Introduction to Statistical Methods"
 collection: teaching
-type: "Lab for undergraduate course"
+type: "Graduate teaching assistant"
 permalink: /teaching/ST352
 venue: "Oregon State University, Statistics Department"
 date: 2023-01-01
