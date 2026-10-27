@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of North Carolina at Chapel Hill, where my research focuses on the development and application of quantitative methods to answer questions in environmental and population health. I am particular interested in causal inference, spatial statistics, and environmental epidemiology, with current work examining how environmental exposures influence pregnancy, early human development, and chronic disease.
+I am a PhD student at the University of North Carolina at Chapel Hill, where my research focuses on the development and application of quantitative methods to answer questions in environmental and population health. I am particularly interested in causal inference, spatial statistics, and environmental epidemiology, with current work examining how environmental exposures influence pregnancy, early human development, and chronic disease.
 
 My research spans environmental epidemiology and biostatistical methodology, with a focus on understanding the relationships between environmental exposures and human health. My work includes investigating prenatal chemical exposures and fetal development, assessing residential radon exposure and its associated health risks, and characterizing community noise in urban environments. I also develop statistical methods and software for analyzing complex chemical mixtures and investigate methodological questions related to growth assessment in children born preterm.
 
