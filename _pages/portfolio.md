@@ -9,20 +9,20 @@ author_profile: true
 
 ### Published and Accepted
 
-**[Systematic measurement and machine learning-based characterization of community noise in a medium-large city in the United States](https://pubmed.ncbi.nlm.nih.gov/40684001/)**
+**[Indoor radon and incident heart failure in the Women’s Health Initiative](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2856258)**
 
-**Carson Mowrer**, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar  
-*Journal of Exposure Science and Environmental Epidemiology* · July 19, 2025
+Shu Chen, Cuiran Shi, Jason M. Collins, Ayesha Ekanayaka, **Carson Mowrer**, James D. Stewart, David Y. Huang, Matthew A. Allison, Charles B. Eaton, Bernhard Haring, Michael J. LaMonte, Matthew S. Nudy, Alexander P. Reiner, Gary G. Schwartz, David Z. Shou, Lesley F. Tinker, Mark R. Williamson, Richard L. Smith, Eric A. Whitsel  
+*JAMA Network Open* · November 5, 2026
 
 **[Residential radon concentration and the risk of malignant brain and central nervous system cancer in United States postmenopausal women](https://pmc.ncbi.nlm.nih.gov/articles/PMC13537205/)**
 
 **Carson Mowrer**, Eric A. Whitsel, Jason M. Collins, Shu Chen, Ayesha Ekanayaka, JoAnn E. Manson, Jaymie R. Meliker, Alexander P. Reiner, Gary G. Schwartz, Aladdin H. Shadyab, Cuiran Shi, Richard L. Smith, James D. Stewart, Hari H. Venkatachalam, Matthew Bozigar  
 *Neuroepidemiology* · September 1, 2026
 
-**Indoor radon and incident heart failure in the Women’s Health Initiative**
+**[Systematic measurement and machine learning-based characterization of community noise in a medium-large city in the United States](https://pubmed.ncbi.nlm.nih.gov/40684001/)**
 
-Shu Chen, Cuiran Shi, Jason M. Collins, Ayesha Ekanayaka, **Carson Mowrer**, James D. Stewart, David Y. Huang, Matthew Allison, Bernhard Haring, Michael J. LaMonte, Matthew Nudy, Alexander P. Reiner, Gary G. Schwartz, David Shou, Lesley Tinker, Mark Williamson, Richard L. Smith, Eric A. Whitsel  
-*JAMA Network Open* · Accepted September 9, 2026
+**Carson Mowrer**, Andrew Larkin, Charlotte Roscoe, Stephanie T. Grady, Junenette L. Peters, Brendon Haggerty, Perry Hystad, Matthew Bozigar  
+*Journal of Exposure Science and Environmental Epidemiology* · July 19, 2025
 
 ### Manuscripts Under Review and In Preparation
 
