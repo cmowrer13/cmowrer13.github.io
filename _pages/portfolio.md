@@ -34,7 +34,7 @@ Danielle R. Stevens, **Carson Mowrer**, Elena Sinkovskaya, Barrett M. Welch, And
 **Use of imaging to examine the roles of environmental chemicals in pregnancy and health: a scoping review**
 
 Belle Martin, **Carson Mowrer**, Andrea Chalem, Barrett M. Welch, Mandy Goldberg, Emily J. Werder, Stephanie M. Engel, Danielle R. Stevens  
-*In preparation*
+*In review*
 
 **Gestational exposure to legacy and replacement phthalates and fetal organ development: findings from the HPP-3D study**
 
